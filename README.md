@@ -1,24 +1,34 @@
-# proyecto-vue
+# :ledger:  proyecto-vue
+Ejemplo del uso de vue-router y vue-resource.
 
-## Project setup
+### 🛠️ Tecnologías
+* [**Node**](https://nodejs.org/en/)
+* [**Vue**](https://vuejs.org/)
+* [**vue-router**](https://router.vuejs.org/)
+* [**vue-resource**](https://github.com/pagekit/vue-resource)
+* [**Pug.js**](https://pugjs.org/language/attributes.html)
+
+### **Pasos para Ejecutar**
+
+* Clonar el proyecto del repositorio de git
+```shell
+    git clone https://github.com/anlramirezs11/ejemplo1-vue
+```
+* Instalar dependencias
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+* Ejecutar en desarrollo
 ```
-npm run serve
+npm start
 ```
 
-### Compiles and minifies for production
+### Para lanzar a producción
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Para limpiar y corregir archivos
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
